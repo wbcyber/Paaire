@@ -1,0 +1,141 @@
+
+.formbox{
+	width: 80%;
+	height: 80% ;
+	position: relative; 
+	margin: 6% auto;
+	background:#FFFFE0;
+	padding: 5px;
+	overflow: hidden;
+}
+.picture{
+
+	position: center; 
+	padding-top: 20px;
+	margin-left: 30%;
+	background: transparent;
+	padding-left: 130px;
+	overflow: hidden;
+}
+
+
+.formline{
+	border-bottom: 1px solid silver;
+	margin: 20px;
+
+}
+.formtext{
+	width: 100%;
+	margin-top: 10px;
+	margin-bottom: 1px;
+
+}
+
+.inputdata{
+	display:block;
+	width: 90%;
+	height: 25px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	
+}
+
+.sub-btn{
+	width: 40%;
+	padding:10px 30px;
+	display:block;
+	border:0;
+	outline: none;
+	border-radius: 6px;
+	cursor: pointer;
+	margin-top: 30px;
+	margin-bottom: 10px;
+	margin-left: 30%;
+	background-color:#20B2AA;
+
+
+}
+.sub-btn1{
+	text-align: left;
+	width: 65%;
+	padding:10px 30px;
+	border:0;
+	outline: none;
+	cursor: pointer;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	position: center;
+	
+}
+.sub-btn2{
+	background-color:brown;
+	color:white;
+	width: 25%;
+	padding:10px 30px;
+	border:0;
+	outline: none;
+	cursor: pointer;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	position: center;
+}
+
+.link{
+	margin-top:10px;
+	margin-left: 2px; 
+	color:#20B2AA;
+
+}
+.link1{
+	margin-top:10px;
+	margin-right: 2px;
+	margin-left: 100px;
+	color:#20B2AA;
+	 
+}
+.formline1{
+	border-bottom: 1px solid silver;
+	margin-top: 30px;
+	margin-bottom: 10px;
+	padding-bottom: 1px;
+}
+.lodoo{
+	width:100%;
+	padding: 5px 0;
+	margin: 5px 0;
+	outline: none;
+	border-left: 0;
+	border-right: 0;
+	outline: none;
+	background: transparent;
+	position: center;
+	padding-right: 35%;
+	padding-left: 35%;
+
+
+}
+.lodoo1{
+	margin-bottom: 0px;
+	margin-left: ; 
+	color:#20B2AA;
+	border-left: 10px;
+
+
+	
+}
+
+.lodoo2{
+	margin-bottom: 0px;
+	margin-right: 30%;
+	margin-left: 20px;
+	border-left: 1px solid silver;
+	padding-left: 10px;
+	color:#20B2AA;
+	display : inline-flex;
+	position: center;
+	
+}	
+a{
+	text-decoration: none;
+}
+

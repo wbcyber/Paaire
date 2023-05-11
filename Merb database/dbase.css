@@ -1,0 +1,40 @@
+
+.header{
+	padding-left:40%;
+	padding-right: 20%;
+
+}
+h1{
+	font: Bauhaus 93;
+	color: purple ;
+	font-size: 500%; 
+}
+.box{
+	margin-top: 20%
+	margin-bottom:20%;
+	margin-right: 5%;
+	margin-left: 10%;
+}
+.table1{
+	width:95%;
+}
+.row{
+	height: 30px;
+}
+.data{
+
+}
+a{
+	text-decoration: none;
+}
+.lastnote{
+	padding-left:20%;
+	padding-right: 20%;
+}
+td, th{
+	border:1px solid silver;
+
+}
+table{
+	border-collapse: collapse;
+}
